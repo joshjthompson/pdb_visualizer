@@ -37,3 +37,14 @@ pip install -r requirements.txt
 
 All dependencies can be installed using the requirement.txt file (see installation commands above) 
 ## Examples/Images 
+Human Oxyhemoglobin
+
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/45d29b29-cf7a-45a9-93f1-192a48d3b3ca" />\
+\
+DNA Strand 
+
+<img width="999" alt="Image" src="https://github.com/user-attachments/assets/cac1ef51-af98-4cf2-a74c-7d3ba639dadd" />\
+\
+Zoom in to specific bond patterns/atoms 
+
+<img width="1001" alt="Image" src="https://github.com/user-attachments/assets/e8559f9c-a1fc-440e-8a75-9a31d7d0de3c" />

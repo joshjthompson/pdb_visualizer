@@ -10,8 +10,8 @@ def open_file():
 	global toolbar
 	file_path=filedialog.askopenfilename(filetypes=[('PDB Files', '*.pdb')])
 	atoms,bonds=parse_pdb(file_path)
-	print(file_path)
-	print(atoms,bonds)
+	# print(file_path)
+	# print(atoms,bonds)
 	canvas=FigureCanvasTkAgg(plot_molecule(atoms,bonds),master=frame)
 	canvas.draw()
 	canvas.get_tk_widget().grid(column=0,row=0,sticky='nsew')
